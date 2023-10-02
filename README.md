@@ -8,6 +8,3 @@
 - 😄 Pronouns: hi/him/his
 - ⚡ Fun fact: I like video games
 - Check out Jman Central: https://mainpage.me/JmanCentral
-
-<!--
--->
