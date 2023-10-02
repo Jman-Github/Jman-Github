@@ -5,6 +5,6 @@
 - 🤔 I’m looking for help with nothing right now
 - 💬 Ask me about Roblox
 - 📫 How to reach me: Discord (jmanmedia)
-- 😄 Pronouns: hi/him/his
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like video games
-- Check out Jman Central: https://mainpage.me/JmanCentral
+- 🔗Check out Jman Central ----> https://mainpage.me/JmanCentral
