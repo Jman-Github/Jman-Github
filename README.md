@@ -7,4 +7,4 @@
 - 📫 How to reach me: Discord (jmanmedia)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like video games
-- 🔗 Check out Jman Central ----> https://mainpage.me/JmanCentral
+- 🔗 Check out Jman Central ----> https://jmancentral.com
