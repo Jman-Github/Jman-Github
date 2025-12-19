@@ -1,5 +1,5 @@
 ![Jman's GitHub stats](https://github-readme-stats.vercel.app/api?username=jman-github&show_icons=true&theme=github_dark)
-- 🔭 I’m currently working on a website and [ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) repository
+- 🔭 I’m currently working on [ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) & [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager)
 - 🌱 I’m currently learning about ReVanced
 - 👯 I’m looking to collaborate on [ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) & [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager)
 - 🤔 I’m looking for help with nothing right now
