@@ -1,4 +1,4 @@
-![Jman's GitHub stats](https://github-readme-stats-nine-silk-51.vercel.app/api?username=jman-github&show_icons=true&theme=github_dark)
+![Jman's GitHub developer profile](https://jmancentral.com/github-stats.svg)
 - 🔭 I’m currently working on [ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) & [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager)
 - 🌱 I’m currently learning about ReVanced
 - 👯 I’m looking to collaborate on [ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) & [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager)
